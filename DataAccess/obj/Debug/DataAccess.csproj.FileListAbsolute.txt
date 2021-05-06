@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\InterfaceAbstractDemo\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ASUS\source\repos\InterfaceAbstractDemo\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ASUS\source\repos\InterfaceAbstractDemo\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\InterfaceAbstractDemo\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ASUS\source\repos\InterfaceAbstractDemo\DataAccess\obj\Debug\DataAccess.pdb

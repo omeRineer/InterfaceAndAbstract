@@ -1,0 +1,114 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\InterfaceAbstractDemo\\InterfaceAbstractDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\Business\\Business.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\DataAccess\\DataAccess.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\Entities\\Entities.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\InterfaceAbstractDemo\\InterfaceAbstractDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\InterfaceAbstractDemo\\InterfaceAbstractDemo.csproj",
+        "projectName": "InterfaceAbstractDemo",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\InterfaceAbstractDemo\\InterfaceAbstractDemo.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\InterfaceAbstractDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\DevEks\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\Business\\Business.csproj"
+              },
+              "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\source\\repos\\InterfaceAbstractDemo\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

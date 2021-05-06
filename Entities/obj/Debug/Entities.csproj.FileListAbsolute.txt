@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\InterfaceAbstractDemo\Entities\bin\Debug\Entities.dll
+C:\Users\ASUS\source\repos\InterfaceAbstractDemo\Entities\bin\Debug\Entities.pdb
+C:\Users\ASUS\source\repos\InterfaceAbstractDemo\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\InterfaceAbstractDemo\Entities\obj\Debug\Entities.dll
+C:\Users\ASUS\source\repos\InterfaceAbstractDemo\Entities\obj\Debug\Entities.pdb
